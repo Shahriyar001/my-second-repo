@@ -3,4 +3,4 @@ TO RUN inlocalhost
 ```
 start live project
 ```
-updateed project will be posted
+updated project will be post in this site
