@@ -1,5 +1,5 @@
 ### THIS IS JUST A TEST PROJECT
-TO RUN inlocalhost
+to run in localhost
 ```
 start live project from vscode
 ```
